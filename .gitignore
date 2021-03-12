@@ -1,0 +1,6 @@
+venv
+.vscode
+cdr.csv
+*.txt
+*.zip
+.DS_Store
